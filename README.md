@@ -7,6 +7,6 @@
 https://youtu.be/NxlH8uqnN2E
 
 Характеристики ноута:
-Intel(R) Core(TM) i5-6300HQ CPU
-NVIDIA GeForce GTX 950M
-8,00 ГБ
+Intel(R) Core(TM) i5-6300HQ CPU  
+NVIDIA GeForce GTX 950M  
+8,00 ГБ  
